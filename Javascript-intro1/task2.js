@@ -1,5 +1,5 @@
 // Menghitung rata-rata UN berserta gradenya
-const mtk = 110;
+const mtk = 100;
 const bin = 100;
 const bing = '';
 const ipa = '';
